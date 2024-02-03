@@ -25,7 +25,6 @@
 
 ># My Github Status
 
-
-![Victor Ferreira Github Stats](https://github-readme-stats.vercel.app/api?username=Vector-F19&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vector-F19&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Victor Ferreira  Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vector-F19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
